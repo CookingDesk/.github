@@ -18,7 +18,7 @@
 
 **CookingDesk** is an application designed to help you explore, save, and cook recipes from all around the world. Whether you’re a beginner or an experienced cook, CookingDesk guides you step-by-step through every recipe, making the cooking experience simple and enjoyable.
 
-You can also create your own recipes and store them online using a JSON-based storage system powered by :contentReference[oaicite:0]{index=0}.
+You can also create your own recipes and store them online using a JSON-based storage system powered by **[JSONBIN.io](https://jsonbin.io)**.
 
 ---
 
@@ -35,8 +35,7 @@ You can also create your own recipes and store them online using a JSON-based st
 
 ## 🚀 Developer
 
-Developed by **[elvarHex](https://github.com/elvarHex)**  
-:contentReference[oaicite:1]{index=1}
+Developed by **[elvarHex](https://github.com/elvarHex)** 
 
 ---
 
