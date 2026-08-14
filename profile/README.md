@@ -19,7 +19,7 @@ You can also create your own recipes and store them online using a JSON-based st
 To create, search for, and save your recipes.
 <div align="center">
   <a href="https://github.com/CookingDesk/Mobile-version/releases/latest">
-    <img src="assets/getItGithub.png" alt="Download from GitHub" height="80">
+    <img src="../assets/getItGithub.png" alt="Download from GitHub" height="80">
   </a>
 </div>
 
@@ -29,7 +29,7 @@ To create, search for, and save your recipes.
 To cook your recipes step-by-step, hands-free.
 <div align="center">
   <a href="https://github.com/CookingDesk/Desk-version/releases/latest">
-    <img src="assets/getItGithub.png" alt="Download from GitHub" height="80">
+    <img src="../assets/getItGithub.png" alt="Download from GitHub" height="80">
   </a>
 </div>
 
